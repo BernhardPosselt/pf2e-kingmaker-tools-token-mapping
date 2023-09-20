@@ -25,17 +25,7 @@ If your Foundry instance is running, you need to restart it to clear its module 
 described folder structure. See further down for how the folder needs to be organized.
 
 The module ships with a settings to auto-configure all tokens from the adventure path by looking up files in a certain
-folder. If you don't want that, remove the following lines from the **module.json** file:
-
-```json
-{
-  "flags": {
-    "pf2e-kingmaker-tools": {
-      "pf2e-art": "modules/pf2e-kingmaker-tools/map.json"
-    }
-  }
-}
-```
+folder, similar to the official module. Therefore, keep in mind that you don't want to use this module if you've purchased and enabled the official module, unless you want to override the official bestiary art. 
 
 The tokens integrate with the [Token Pack](https://foundryvtt.com/packages/pf2e-tokens-bestiaries) and expect the other
 tokens to be placed into your **Data/pf2e-kingmaker-tools-tokens/** directory under the following paths:
