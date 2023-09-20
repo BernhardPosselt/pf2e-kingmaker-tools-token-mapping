@@ -12,7 +12,10 @@ rm -rf ./build
 mkdir -p build/pf2e-kingmaker-tools-token-mapping/
 
 # create archive
+node ./scripts/update-module-json.mjs "$version"
 cp module.json map.json README.md LICENSE CHANGELOG.md build/pf2e-kingmaker-tools-token-mapping/
+cp -r docs/ build/pf2e-kingmaker-tools-token-mapping/
+
 
 cd build
 zip -r release.zip pf2e-kingmaker-tools-token-mapping
