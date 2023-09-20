@@ -1,0 +1,36 @@
+{
+    "title": "Pathfinder - Kingmaker Tools Token Mapping (Unofficial)",
+    "description": "Token mappings for Kingmaker (previously included in Kingmaker Tools)",
+    "version": "0.0.1",
+    "url": "https://github.com/BernhardPosselt/pf2e-kingmaker-tools-token-mapping",
+    "license": "LICENSE",
+    "manifest": "https://raw.githubusercontent.com/BernhardPosselt/pf2e-kingmaker-tools-token-mapping/master/module.json",
+    "download": "https://github.com/BernhardPosselt/pf2e-kingmaker-tools-token-mapping/releases/download/0.4.1/release.zip",
+    "id": "pf2e-kingmaker-tools-token-mapping",
+    "authors": [
+        {
+            "name": "Bernhard Posselt",
+            "flags": {}
+        }
+    ],
+    "flags": {
+        "pf2e-kingmaker-tools-token-mapping": {
+            "pf2e-art": "modules/pf2e-kingmaker-tools/map.json"
+        }
+    },
+    "relationships": {
+        "systems": [
+            {
+                "id": "pf2e",
+                "compatibility": {
+                    "minimum": "5.4.1"
+                }
+            }
+        ]
+    },
+    "compatibility": {
+        "minimum": "11",
+        "maximum": "11",
+        "verified": "11"
+    }
+}
