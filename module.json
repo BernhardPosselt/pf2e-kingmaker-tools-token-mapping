@@ -15,7 +15,7 @@
     ],
     "flags": {
         "pf2e-kingmaker-tools-token-mapping": {
-            "pf2e-art": "modules/pf2e-kingmaker-tools/map.json"
+            "pf2e-art": "modules/pf2e-kingmaker-tools-token-mapping/map.json"
         }
     },
     "relationships": {

@@ -196,19 +196,12 @@ not found under User Data, The Forge will instead try to look it up under the sa
 * **kingmaker/Token - Winged Owlbear.webp**
 * **kingmaker/Token - Xae.webp**
 * **kingmaker/Token - Zorek.webp**
-* **companions/Token - Amiri.webp**
-* **companions/Token - Ekundayo.webp**
 * **companions/Token - Harrim.webp**
 * **companions/Token - Jaethal.webp**
 * **companions/Token - Kanerah.webp**
 * **companions/Token - Kalikke.webp**
-* **companions/Token - Jubilost.webp**
-* **companions/Token - Linzi.webp**
-* **companions/Token - Nok Nok.webp**
 * **companions/Token - Octavia.webp**
 * **companions/Token - Regongar.webp**
-* **companions/Token - Tristian.webp**
-* **companions/Token - Valerie.webp**
 * **gmg/Token - Bandit.webp**
 * **gmg/Token - Hunter.webp**
 * **gmg/Token - Antipaladin.webp**
