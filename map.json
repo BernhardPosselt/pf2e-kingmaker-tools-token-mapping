@@ -1,4 +1,10 @@
 {
+  "quest-for-the-frozen-flame-bestiary": {
+    "IP3fGAEz3Nw1TzDD": {
+      "actor": "pf2e-kingmaker-tools-tokens/kingmaker/Token - Elk.webp",
+      "token": "pf2e-kingmaker-tools-tokens/kingmaker/Token - Elk.webp"
+    }
+  },
   "kingmaker-bestiary": {
     "NxVi4ot2bzNOk6Zj": {
       "actor": "pf2e-kingmaker-tools-tokens/kingmaker/Token - Aecora Silverfire.webp",
@@ -168,10 +174,6 @@
     "sMCEMlNngFINMX8y": {
       "actor": "pf2e-kingmaker-tools-tokens/kingmaker/Token - Elga Verniex.webp",
       "token": "pf2e-kingmaker-tools-tokens/kingmaker/Token - Elga Verniex.webp"
-    },
-    "ZONzwORTiatiOGwr": {
-      "actor": "pf2e-kingmaker-tools-tokens/kingmaker/Token - Elk.webp",
-      "token": "pf2e-kingmaker-tools-tokens/kingmaker/Token - Elk.webp"
     },
     "mNKAaSBWbZHQRdo9": {
       "actor": "pf2e-kingmaker-tools-tokens/kingmaker/Token - Endless Struggle.webp",
@@ -418,10 +420,6 @@
     "sw32QdZlsWnmWaVY": {
       "actor": "pf2e-kingmaker-tools-tokens/kingmaker/Token - Mastiff of Tindalos.webp",
       "token": "pf2e-kingmaker-tools-tokens/kingmaker/Token - Mastiff of Tindalos.webp"
-    },
-    "oS5LmqYW6vzpFZJU": {
-      "actor": "pf2e-kingmaker-tools-tokens/kingmaker/Token - Elk.webp",
-      "token": "pf2e-kingmaker-tools-tokens/kingmaker/Token - Elk.webp"
     },
     "RTd4FwqGq8gBjdAO": {
       "actor": "pf2e-kingmaker-tools-tokens/kingmaker/Token - Melianse.webp",
