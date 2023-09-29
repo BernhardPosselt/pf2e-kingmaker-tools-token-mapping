@@ -28,6 +28,38 @@
             }
         ]
     },
+    "packs": [
+        {
+            "name": "kingmaker-tools-token-mapping-companions",
+            "path": "packs/kingmaker-tools-token-mapping-companions",
+            "label": "Companions",
+            "type": "Actor",
+            "system": "pf2e",
+            "private": false,
+            "banner": "systems/pf2e/assets/compendium-banner/red.webp",
+            "flags": {}
+        },
+        {
+            "name": "kingmaker-tools-token-mapping-structures",
+            "path": "packs/kingmaker-tools-token-mapping-structures",
+            "label": "Structures",
+            "type": "Actor",
+            "system": "pf2e",
+            "private": false,
+            "banner": "systems/pf2e/assets/compendium-banner/red.webp",
+            "flags": {}
+        }
+    ],
+    "packFolders": [
+        {
+            "name": "Kingmaker Tools Token Mapping",
+            "sorting": "m",
+            "packs": [
+                "kingmaker-tools-token-mapping-structures",
+                "kingmaker-tools-token-mapping-companions"
+            ]
+        }
+    ],
     "compatibility": {
         "minimum": "11",
         "maximum": "11",

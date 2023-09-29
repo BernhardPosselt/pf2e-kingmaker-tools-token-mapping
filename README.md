@@ -1,6 +1,6 @@
 # Kingmaker Tools Token Mapping (Unofficial)
 
-This module ships predefined token mappings for the Kingmaker Adventure Path for Pathfinder 2nd Edition. The contents of this module have previously been included in the [Kingmaker Tools](https://github.com/BernhardPosselt/pf2e-kingmaker-tools) module but has been pulled out, so that you can both use the Tools module and the official Kingmaker module.
+This module ships predefined token mappings and packs for the Kingmaker Adventure Path for Pathfinder 2nd Edition. The contents of this module have previously been included in the [Kingmaker Tools](https://github.com/BernhardPosselt/pf2e-kingmaker-tools) module but has been pulled out, so that you can both use the Tools module and the official Kingmaker module.
 
 **Do not install this module if you are using the official Kingmaker module!**
 
@@ -38,6 +38,7 @@ tokens to be placed into your **Data/pf2e-kingmaker-tools-tokens/** directory un
 not found under User Data, The Forge will instead try to look it up under the same path in **My Asset Library** instead.
 
 ![The Forge](docs/images/the-forge.png)
+
 
 * **kingmaker/Token - Aecora Silverfire.webp**
 * **kingmaker/Token - Agai.webp**
@@ -188,9 +189,15 @@ not found under User Data, The Forge will instead try to look it up under the sa
 * **kingmaker/Token - Zorek.webp**
 * **companions/Token - Amiri.webp**
 * **companions/Token - Ekundayo.webp**
+* **companions/Token - Harrim.webp**
+* **companions/Token - Jaethal.webp**
+* **companions/Token - Kanerah.webp**
+* **companions/Token - Kalikke.webp**
 * **companions/Token - Jubilost.webp**
 * **companions/Token - Linzi.webp**
 * **companions/Token - Nok Nok.webp**
+* **companions/Token - Octavia.webp**
+* **companions/Token - Regongar.webp**
 * **companions/Token - Tristian.webp**
 * **companions/Token - Valerie.webp**
 * **gmg/Token - Bandit.webp**
@@ -210,3 +217,80 @@ not found under User Data, The Forge will instead try to look it up under the sa
 * **gmg/Token - Poacher.webp**
 * **gmg/Token - Ruffian.webp**
 * **gmg/Token - Servant.webp**
+* **structures/Academy.webp**
+* **structures/Alchemy Laboratory.webp**
+* **structures/Arcanist Tower.webp**
+* **structures/Arena.webp**
+* **structures/Bank.webp**
+* **structures/Barracks.webp**
+* **structures/Brewery.webp**
+* **structures/Bridge.webp**
+* **structures/Castle.webp**
+* **structures/Cathedral.webp**
+* **structures/Cemetery.webp**
+* **structures/Construction Yard.webp**
+* **structures/Dump.webp**
+* **structures/Embassy.webp**
+* **structures/Festival Hall.webp**
+* **structures/Foundry.webp**
+* **structures/Garrison.webp**
+* **structures/General Store.webp**
+* **structures/Gladiatorial Arena.webp**
+* **structures/Granary.webp**
+* **structures/Guildhall.webp**
+* **structures/Herbalist.webp**
+* **structures/Hospital.webp**
+* **structures/Houses.webp**
+* **structures/Illicit Market.webp**
+* **structures/Inn.webp**
+* **structures/Jail.webp**
+* **structures/Keep.webp**
+* **structures/Library.webp**
+* **structures/Lumberyard.webp**
+* **structures/Luxury Store.webp**
+* **structures/Magical Streetlamps.webp**
+* **structures/Magic Shop.webp**
+* **structures/Mansion.webp**
+* **structures/Marketplace.webp**
+* **structures/Menagerie.webp**
+* **structures/Military Academy.webp**
+* **structures/Mill.webp**
+* **structures/Mint.webp**
+* **structures/Monument.webp**
+* **structures/Museum.webp**
+* **structures/Noble Villa.webp**
+* **structures/Occult Shop.webp**
+* **structures/Opera House.webp**
+* **structures/Orphanage.webp**
+* **structures/Palace.webp**
+* **structures/Park.webp**
+* **structures/Paved Streets.webp**
+* **structures/Pier.webp**
+* **structures/Printing Press.webp**
+* **structures/Rubble.webp**
+* **structures/Sacred Grove.webp**
+* **structures/Secure Warehouse.webp**
+* **structures/Sewer System.webp**
+* **structures/Shrine.webp**
+* **structures/Smithy.webp**
+* **structures/Special Artisan.webp**
+* **structures/Stable.webp**
+* **structures/Stockyard.webp**
+* **structures/Stonemason.webp**
+* **structures/Tannery.webp**
+* **structures/Tavern, Dive.webp**
+* **structures/Tavern, Luxury.webp**
+* **structures/Tavern, Popular.webp**
+* **structures/Tavern, World Class.webp**
+* **structures/Temple.webp**
+* **structures/Tenement.webp**
+* **structures/Theater.webp**
+* **structures/Thieves Guild.webp**
+* **structures/Town Hall.webp**
+* **structures/Trade Shop.webp**
+* **structures/University.webp**
+* **structures/Wall, Stone.webp**
+* **structures/Wall, Wooden.webp**
+* **structures/Watchtower.webp**
+* **structures/Waterfront (Corner).webp**
+* **structures/Waterfront (Side).webp**

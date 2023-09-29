@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+* Ship structures and companions that link to your own token directory; the Kingmaker Tools module ships with tokens linked to the official module now.
+
 ## [0.0.2] - 2023-09-20
 
 ### Fixed
