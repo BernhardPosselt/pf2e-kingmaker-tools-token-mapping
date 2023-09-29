@@ -1,15 +1,8 @@
-2023/09/29-16:25:40.425468 7fd7d05f06c0 Recovering log #356
-2023/09/29-16:25:40.434030 7fd7d05f06c0 Delete type=0 #356
-2023/09/29-16:25:40.434067 7fd7d05f06c0 Delete type=3 #337
-2023/09/29-17:44:07.864272 7fd855dfb6c0 Level-0 table #359: started
-2023/09/29-17:44:07.867232 7fd855dfb6c0 Level-0 table #359: 225 bytes OK
-2023/09/29-17:44:07.873054 7fd855dfb6c0 Delete type=0 #357
-2023/09/29-17:44:07.873139 7fd855dfb6c0 Manual compaction at level-0 from '!actors!0RhKx0DxXSpZMDT4' @ 72057594037927935 : 1 .. '!actors!x5I6x5uRPeTTsqdP' @ 0 : 0; will stop at (end)
-2023/09/29-17:44:07.873171 7fd855dfb6c0 Manual compaction at level-1 from '!actors!0RhKx0DxXSpZMDT4' @ 72057594037927935 : 1 .. '!actors!x5I6x5uRPeTTsqdP' @ 0 : 0; will stop at '!actors!yybLhORz4PeZxCp0' @ 82 : 0
-2023/09/29-17:44:07.873175 7fd855dfb6c0 Compacting 1@1 + 1@2 files
-2023/09/29-17:44:07.881472 7fd855dfb6c0 Generated table #360@1: 77 keys, 98639 bytes
-2023/09/29-17:44:07.881493 7fd855dfb6c0 Compacted 1@1 + 1@2 files => 98639 bytes
-2023/09/29-17:44:07.887482 7fd855dfb6c0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/09/29-17:44:07.887594 7fd855dfb6c0 Delete type=2 #108
-2023/09/29-17:44:07.887732 7fd855dfb6c0 Delete type=2 #359
-2023/09/29-17:44:07.893938 7fd855dfb6c0 Manual compaction at level-1 from '!actors!yybLhORz4PeZxCp0' @ 82 : 0 .. '!actors!x5I6x5uRPeTTsqdP' @ 0 : 0; will stop at (end)
+2023/09/29-18:47:29.699380 7f500dff26c0 Recovering log #362
+2023/09/29-18:47:29.708519 7f500dff26c0 Delete type=0 #362
+2023/09/29-18:47:29.708581 7f500dff26c0 Delete type=3 #361
+2023/09/29-18:52:17.539450 7f5090ff86c0 Level-0 table #366: started
+2023/09/29-18:52:17.539472 7f5090ff86c0 Level-0 table #366: 0 bytes OK
+2023/09/29-18:52:17.545243 7f5090ff86c0 Delete type=0 #364
+2023/09/29-18:52:17.545313 7f5090ff86c0 Manual compaction at level-0 from '!actors!0RhKx0DxXSpZMDT4' @ 72057594037927935 : 1 .. '!actors!x5I6x5uRPeTTsqdP' @ 0 : 0; will stop at (end)
+2023/09/29-18:52:17.545343 7f5090ff86c0 Manual compaction at level-1 from '!actors!0RhKx0DxXSpZMDT4' @ 72057594037927935 : 1 .. '!actors!x5I6x5uRPeTTsqdP' @ 0 : 0; will stop at (end)
